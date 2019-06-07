@@ -54,7 +54,7 @@ export default {
   networkDisconnectHostDisconnect: 'Der Host hat die Verbindung geschlossen.',
   networkDisconnectTimeout: 'Netzwerk Timeout.',
   networkDisconnectInvalidClientInfo: 'Ungültige Client Informationen.',
-  networkDisconnectVersionMismatch: `Client Versionen stimmen nicht überein.`,
+  networkDisconnectVersionMismatch: 'Client Versionen stimmen nicht überein.',
   networkDisconnectFull: 'Sitzung ist voll.',
   networkDisconnectKicked: 'Aus der Sitzung gekickt.',
   networkTroubleshootingHelp: 'Schau dir den <1>Netzwerk Problemguide</1> für Hilfestellungen an.',
